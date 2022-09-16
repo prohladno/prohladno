@@ -23,5 +23,5 @@ My name is **Valeriia Vladelshchikova** and I am a Front-end Developer.
 
 ### Контакты
 
-[Linkedin](https://www.linkedin.com/in/vladelshchikova/)
-[vladelshchikova@seznam.cz](vladelshchikova@seznam.cz)
+- Linkedin [Linkedin](https://www.linkedin.com/in/vladelshchikova/)
+- Email [vladelshchikova@seznam.cz](vladelshchikova@seznam.cz)
