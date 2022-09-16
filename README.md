@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there👋
 
-<!--
-**prohladno/prohladno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Valeriia Vladelshchikova** and I am a Front-end Developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My technology stack:
+
+- ![HTML](https://img.icons8.com/color/23/000000/html-5--v1.png) HTML
+- ![CSS](https://img.icons8.com/color/23/000000/css3.png) CSS
+- ![SASS](https://img.icons8.com/color/23/000000/sass.png) SASS
+- ![Bootstrap](https://img.icons8.com/color/23/000000/bootstrap.png) Bootstrap
+- ![JavaScript](https://img.icons8.com/color/23/000000/javascript--v1.png) JavaScript
+- ![Vue](https://img.icons8.com/color/23/000000/vue-js.png) Vue
+- ![MySQL](https://img.icons8.com/external-those-icons-flat-those-icons/20/000000/external-MySQL-programming-and-development-those-icons-flat-those-icons.png) MySQL
+- ![Git](https://img.icons8.com/color/23/000000/git.png) Git
+- ![GitHub](https://img.icons8.com/ios-filled/23/000000/github.png) GitHub
+
+### Languages:
+
+- Russian (С2)
+- Czech (B2)
+
+### Контакты
+
+[Linkedin](https://www.linkedin.com/in/vladelshchikova/)
+[vladelshchikova@seznam.cz](vladelshchikova@seznam.cz)
