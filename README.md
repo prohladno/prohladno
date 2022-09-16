@@ -16,12 +16,16 @@ My name is **Valeriia Vladelshchikova** and I am a Front-end Developer.
 - ![Git](https://img.icons8.com/color/23/000000/git.png) Git
 - ![GitHub](https://img.icons8.com/ios-filled/23/000000/github.png) GitHub
 
+---
+
 ### Languages:
 
 - Russian (С2)
 - Czech (B2)
 
-### Контакты
+---
 
-- Linkedin: [Linkedin](https://www.linkedin.com/in/vladelshchikova/)
-- Email: vladelshchikova@seznam.cz
+### Contacts:
+
+- Linkedin [Linkedin](https://www.linkedin.com/in/vladelshchikova/)
+- Email [vladelshchikova@seznam.cz](vladelshchikova@seznam.cz)
